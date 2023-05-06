@@ -1,0 +1,5 @@
+flask
+google
+google.cloud
+google-cloud-bigquery
+pyodbc
